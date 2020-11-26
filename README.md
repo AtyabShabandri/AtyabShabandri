@@ -2,10 +2,10 @@
 
 
 
-![Atyab's github stats](https://github-readme-stats.vercel.app/api?username=atyabshabandri&show_icons=true&theme=radical))
+![Atyab's github stats](https://github-readme-stats.vercel.app/api?username=atyabshabandri&show_icons=true&theme=graywhite))
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atyabshabandri&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atyabshabandri&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
