@@ -2,7 +2,7 @@
 
 
 
-![Atyab's github stats](https://github-readme-stats.vercel.app/api?username=atyabshabandri&count_private=true&hide=contribs,prs)
+![Atyab's github stats](https://github-readme-stats.vercel.app/api?username=atyabshabandri&count_private=true,prs)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atyabshabandri)](https://github.com/anuraghazra/github-readme-stats)
