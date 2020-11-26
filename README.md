@@ -2,7 +2,7 @@
 
 
 
-![Atyab Shabandris's github stats](https://github-readme-stats.vercel.app/api?username=atyabshabandri&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Atyab Shabandris's github stats](https://github-readme-stats.vercel.app/api?username=atyabshabandri&count_private=true&hide=contribs,prs)
 
 
 
