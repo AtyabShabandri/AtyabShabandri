@@ -4,7 +4,7 @@
 
 ![Atyab's github stats](https://github-readme-stats.vercel.app/api?username=atyabshabandri&show_icons=true&theme=greywhite)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atyabshabandri&theme=greywhite)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atyabshabandri&theme=greywhite)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=atyabshabandri.atyabshabandri)
 
