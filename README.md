@@ -2,9 +2,9 @@
 
 
 
-![Atyab's github stats](https://github-readme-stats.vercel.app/api?username=atyabshabandri&show_icons=true&theme=greywhite)
+![Atyab's github stats](https://github-readme-stats.vercel.app/api?username=atyabshabandri&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atyabshabandri&theme=greywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atyabshabandri&theme=dark)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=atyabshabandri.atyabshabandri)
 
